@@ -1,0 +1,2 @@
+python,platform,torch,tensorflow,cuda_available,cuda_device,ecgrecover_repo,ekgan_repo,wfdb,pandas,numpy,epochs,batch_size,lr,weight_decay,amp,seed
+"3.10.8 (main, Nov  4 2022, 13:48:29) [GCC 11.2.0]",Linux-4.4.0-186-generic-x86_64-with-glibc2.27,1.13.1,2.10.0,True,NVIDIA TITAN X (Pascal),/workspace/ecgrecover,/workspace/ekgan,4.3.1,2.3.3,1.26.4,30,32,0.001,0.0001,True,42
