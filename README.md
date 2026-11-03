@@ -1,4 +1,4 @@
-# PRIME-ECG: Leveraging Previous Records and Individual Metadata for Enhanced 12-Lead ECG Reconstruction and Diagnosis
+# 의료 멀티모달 프로젝트
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Task](https://img.shields.io/badge/Task-1--Lead%20to%2012--Lead%20ECG%20Reconstruction-blue)]()
@@ -6,7 +6,7 @@
 [![Paper](https://img.shields.io/badge/Paper-PDF%20Included-red)](paper/PRIME-ECG_Paper_2026.pdf)
 
 > **의료융합형 멀티모달 프로젝트 (Medical Multimodal AI Project — Team 6, Chung-Ang University)**  
-> **단일 유도(Wearable Lead I) 심전도 + 환자 과거 12-Lead 심전도(Prior) + 환자 메타데이터(Gated Fusion)를 결합한 개인 맞춤형 12-Lead ECG 계층적 복원 및 심혈관 질환 진단 프레임워크**
+> **단일 유도(Wearable Lead I) 심전도 + 환자 과거 12-Lead 심전도(Prior) + 환자 메타데이터(Gated Fusion)를 결합한 개인 맞춤형 12-Lead ECG 계층적 복원 및 심혈관 질환 진단 프레임워크 (PRIME-ECG)**
 
 ---
 
